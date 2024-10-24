@@ -1,8 +1,6 @@
-const CLIENT_ID = '440921674984-ckgaf27jvv61cvkfee5piuacrelfsn7g.apps.googleusercontent.com';
-const API_KEY = 'AIzaSyATLu1RE3__fu_IcfKnTG75_VBahnQ96c4';
+
 const DISCOVERY_DOC = 'https://sheets.googleapis.com/$discovery/rest?version=v4';
 const SCOPES = 'https://www.googleapis.com/auth/spreadsheets.readonly'; 
-const sheetID = '1SmUuC2xFGzgYbuASx8wHKCZ5Gn9kdKUpOkbIN7syeI4';
 const range = 'BD!A:AX';
 
 // Definición de url
