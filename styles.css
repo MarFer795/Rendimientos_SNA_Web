@@ -71,7 +71,7 @@ canvas {
     transition: background-color 0.3s ease;
 
 }
-    @media (max-width: 468px) {
+    @media (max-width: 768px) {
     table {
         width: 100%;
         margin: 0 auto;
